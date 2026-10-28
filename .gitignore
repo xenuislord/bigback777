@@ -1,0 +1,9 @@
+node_modules/
+dist/
+dist-server/
+release/
+.hearth/
+.env
+*.log
+playwright-report/
+test-results/
